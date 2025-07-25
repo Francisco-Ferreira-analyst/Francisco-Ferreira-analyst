@@ -41,7 +41,7 @@ From building dashboards and optimizing ROAS to uncovering behavioral trends and
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-semedo-ferreira/)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/francisco.ferreira3093/vizzes)
+- 📊 [Tableau Profile](https://public.tableau.com/app/profile/francisco.ferreira3093/vizzes)
 - 📂 [Portfolio Website](https://www.ff-analyst.com/)
 - 📬 Email: fsemedo2001@hotmail.com
 
